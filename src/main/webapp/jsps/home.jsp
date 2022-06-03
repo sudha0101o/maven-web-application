@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to venkatesh Software Solutions. Hyderabad,Telengana </h1>
+<h1 align="center">Welcome to Sudhakar Software Solutions. Hyderabad,Telengana </h1>
 <h1 align="center"> venkatesh Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
