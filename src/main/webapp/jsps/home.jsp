@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Sudhakar Software Solutions. Hyderabad,Telengana </h1>
-<h1 align="center"> venkatesh Software Solutions- Good Training center for DevOps with AWS in Maratha Halli Hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> venkatesh Software Solutions- Good Training center for DevOps with AWS & DevOps in Maratha Halli Hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
